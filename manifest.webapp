@@ -1,0 +1,26 @@
+{
+  "name": "granadaBus",
+  "description": "Granada Bus",
+  "type": "privileged",
+  "launch_path": "/index.html",
+  "developer": {
+    "name": "TID",
+    "url": "https://github.com/mozilla-b2g/gaia"
+  },
+  "permissions": {
+    "systemXHR": {}
+  },
+  "locales": {
+    "en-US": {
+      "name": "GranadaBus",
+      "description": "Granada bus version para firefoxOs "
+    }
+  },
+  "default_locale": "en-US",
+  "icons": {
+    "60": "/style/icons/60/Sms.png",
+    "120": "/style/icons/Sms.png",
+    "320": "/style/icons/320/Sms.png"
+  },
+  "orientation": "portrait-primary"
+}

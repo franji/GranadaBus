@@ -1,0 +1,21 @@
+body, html {
+	font-size: 10px !important;
+	background-image:url('images/background.png');
+}
+
+
+.bus_stop{
+  padding: 15px;
+  text-align: left;
+  font-size: 15px;
+  color:#FFFFFF;
+}
+
+
+.line_list {
+  padding: 15px;
+  text-align: left;
+  font-size: 15px;
+  background-color: #FFFFFF
+ 
+}
